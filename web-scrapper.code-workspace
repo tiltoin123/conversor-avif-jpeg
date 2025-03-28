@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "web-scrapper",
+			"path": "../web-scrapper"
+		},
+		{
+			"name": ".git",
+			"path": "../1/.git"
+		}
+	],
+	"settings": {}
+}
